@@ -23,6 +23,11 @@ build_*/
 .fuse*
 *.weights
 
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+
 # OS Generated #
 .DS_Store*
 ehthumbs.db
